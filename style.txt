@@ -1,0 +1,261 @@
+#back
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29467992_1428552260583215_3301421380523786240_n.png?_nc_cat=0&_nc_eui2=v1%3AAeFCM_uuONBm0vqc5IZhi8VpWmwgRg2l1ru9vo7v6OjAHTsGFukHvzlvrJ5k5MVSEgQQlZq2aafuLB4rBkYlZpy82jgZUZ-XY_3bx_m-f4_qmw&oh=44ee0373ad478c1bb83272d7bcccf368&oe=5B653981);
+   //background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29512327_1428552500583191_1094742556220063744_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeFB37FumUNBHdRZtiJE0H0xRozqS_fZ9fxl2XuXeYCeRJrGlOC3gnnbOUjz9d9n8CHHlgZXx2v0nEu_HFeATjO20QYQpWa4ms-Aaqtm5pEryA&oh=aa63e5bbf595a6b18a34782d2fe8078f&oe=5B615C3B);
+   position: fixed;
+   background-repeat: no-repeat;
+   background-size:contain ;
+   background-position:center center;
+   max-width: 1270px;
+   max-height:575px;
+   
+   width:100%;
+   height:100%;
+}
+
+.smft
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29511815_1428552237249884_462969355357913088_n.png?_nc_cat=0&_nc_eui2=v1%3AAeGyHYyd6WSTUx4Lj3S2SHPFwMhw2B70qEZFZslLPXr38G-nh99gHUjvCTmmSjPpRpGnYogHPcFnSJXFKQ7lLGqilsseYZ31PVKQWUsijPKwjA&oh=f8da1baad51d79e50ffd5c3ae2ece0f7&oe=5B75768B);
+   position: fixed;
+   background-repeat: no-repeat; 
+}
+
+#smft_1
+{
+    width:100%;
+    height:100%;
+    background-position:382px 198px;
+    background-size:1.3% ;
+}
+
+#smft_2
+{
+    width:100%;
+    height:100%;
+    background-size:1.1% ;
+    background-position:402px 190px;    
+}
+
+#smft_3
+{
+    width:100%;
+    height:100%;
+    background-size:0.9% ;
+    background-position:432px 192px;    
+}
+
+#wd_1
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29497377_1428552107249897_4893626268945219584_n.png?_nc_cat=0&oh=04d5c52c2a59b40d6c301b4995cb4c80&oe=5B6D9093);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:2.3% ;
+   background-position:311px 184px;
+}
+
+#wd_2
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29497870_1428552117249896_1037962229573484544_n.png?_nc_cat=0&oh=ddc61b1c681b0c5e2fc7a7b1a3f4f6eb&oe=5B274E52);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:2.1% ;
+   background-position:329px 197px;
+}
+
+#wd_3
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29496470_1428552137249894_1020142637895647232_n.png?_nc_cat=0&oh=c5ff040ba1c5ebc8ab86b0f016232cf0&oe=5B3117AE);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:1.9% ;
+   background-position:329px 228px;
+}
+
+#wd_4
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29496470_1428552137249894_1020142637895647232_n.png?_nc_cat=0&oh=c5ff040ba1c5ebc8ab86b0f016232cf0&oe=5B3117AE);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:1.7% ;
+   background-position:329px 265px;
+}
+
+#bgftd_1
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29432522_1428552217249886_878181427458342912_n.png?_nc_cat=0&oh=e80b127fd64fd96a7854776b49e49fd8&oe=5B6732DE);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:5% ;
+   background-position:795px 27px;
+}
+
+#bgftd_2
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29432522_1428552217249886_878181427458342912_n.png?_nc_cat=0&oh=e80b127fd64fd96a7854776b49e49fd8&oe=5B6732DE);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:3.7% ;
+   background-position:850px 110px;
+}
+
+
+
+#bgftd_3
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29432522_1428552217249886_878181427458342912_n.png?_nc_cat=0&oh=e80b127fd64fd96a7854776b49e49fd8&oe=5B6732DE);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:3.9% ;
+   background-position:905px 210px;
+}
+
+#bgftd_4
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29432522_1428552217249886_878181427458342912_n.png?_nc_cat=0&oh=e80b127fd64fd96a7854776b49e49fd8&oe=5B6732DE);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:4.1% ;
+   background-position:920px 305px;
+}
+
+#bgftl_1
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29432522_1428552217249886_878181427458342912_n.png?_nc_cat=0&oh=e80b127fd64fd96a7854776b49e49fd8&oe=5B6732DE);
+   transform: rotate(90deg);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:5% ;
+   background-position:772px 10px;
+}
+
+#bgftl_2
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29432522_1428552217249886_878181427458342912_n.png?_nc_cat=0&oh=e80b127fd64fd96a7854776b49e49fd8&oe=5B6732DE);
+   transform: rotate(90deg);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:5% ;
+   background-position:802px 100px;
+}
+
+#bgftu_1
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29468922_1428552297249878_4695777045676818432_n.png?_nc_cat=0&oh=01b3e3e2651d33b665f1efdeb451c346&oe=5B69C6B9);
+   transform: rotate(180deg);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:5% ;
+   background-position:552px 50px;
+}
+
+#bgftu_2
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29468922_1428552297249878_4695777045676818432_n.png?_nc_cat=0&oh=01b3e3e2651d33b665f1efdeb451c346&oe=5B69C6B9);
+   transform: rotate(180deg);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:5% ;
+   background-position:582px 135px;
+}
+
+#bgftr_1
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29496731_1428552270583214_7952667359167119360_n.png?_nc_cat=0&oh=d42a75b6a7b7ddcd07f0600eac80cc5c&oe=5B276F41);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:4% ;
+   background-position:562px 250px;
+}
+
+#bgftr_2
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29496731_1428552270583214_7952667359167119360_n.png?_nc_cat=0&oh=d42a75b6a7b7ddcd07f0600eac80cc5c&oe=5B276F41);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:4% ;
+   background-position:642px 240px;
+}
+
+#pic_1
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29511641_1428552440583197_7167854500634427392_n.png?_nc_cat=0&oh=058081361223340c8cd05d4f5b40ccf3&oe=5B30B5CB);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:9% ;
+   background-position:652px 41px;
+}
+
+#pic_2
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29497548_1428552240583217_973556205672726528_n.png?_nc_cat=0&oh=05afcbaccfa0a01544fb91993be051ca&oe=5B6160A7);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:9% ;
+   background-position:732px 121px;
+}
+
+#pic_3
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29468623_1428552400583201_2844028610702999552_n.png?_nc_cat=0&oh=1777be01645d421a8c44845e5883504b&oe=5B5F963F);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:9% ;
+   background-position:782px 331px;
+}
+
+#pic_4
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29472400_1428552430583198_5218391144450228224_n.png?_nc_cat=0&oh=04822bcb915db7dd824e8d25e5d0ee1b&oe=5B614564);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:9% ;
+   background-position:587px 161px;
+}
+
+#pic_5
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29433106_1428552127249895_3454509378051244032_n.png?_nc_cat=0&oh=60cf4debe74b8bc0653ff24642445749&oe=5B6AE072);
+   position: fixed;
+   background-repeat: no-repeat;
+   width:100%;
+   height:100%;
+   background-size:3.1% ;
+   background-position:300px 348px;
+}
+

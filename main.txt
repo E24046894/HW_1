@@ -1,0 +1,3 @@
+var smft_1=getElementById("smft_1");
+var smft_2=getElementById("smft_2");
+var smft_3=getElementById("smft_3");

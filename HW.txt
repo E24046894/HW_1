@@ -1,0 +1,66 @@
+<!DOCTYPE html> <!-- tell browser how to interpret this document -->
+<html> 
+
+  <head> 
+    <meta charset="utf-8">
+    <title>WuYuChen</title>
+    <link rel="stylesheet"  type="text/css"  href="t.css">
+    <script src="js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </head>
+
+  <body> 
+       <div class="beiJing" id="back">
+           <div class="beiJing smft" id="smft_1">
+           </div>
+           <div class="beiJing smft" id="smft_2">
+           </div>
+           <div class="beiJing smft" id="smft_3">
+           </div>
+           <div class="beiJing" id="dot_1">
+           </div>
+           <div class="beiJing" id="wd_1">
+           </div>
+           <div class="beiJing" id="wd_2">
+           </div>
+           <div class="beiJing" id="wd_3">
+           </div>
+           <div class="beiJing" id="wd_4"">
+           </div>
+           <div class="beiJing" id="dot_2">
+           </div>
+           <div class="beiJing" id="bgftd_1">
+           </div>
+           <div class="beiJing" id="bgftd_2">
+           </div>
+           <div class="beiJing" id="bgftd_3">
+           </div>
+           <div class="beiJing" id="bgftd_4">
+           </div>
+           <div class="beiJing" id= "bgftl_1">
+           </div>
+           <div class="beiJing" id= "bgftl_2">
+           </div>
+           <div class="beiJing" id="bgftu_1">
+           </div>
+           <div class="beiJing" id="bgftu_2">
+           </div>
+           <div class="beiJing" id="bgftr_1">
+           </div>
+           <div class="beiJing" id="bgftr_2">
+           </div>
+           <div class="beiJing" id="pic_1">
+           </div>
+           <div class="beiJing" id="pic_2">
+           </div>
+           <div class="beiJing" id="pic_3">
+           </div>
+           <div class="beiJing" id="pic_4">
+           </div>
+           <div class="beiJing" id="pic_5">
+           </div>
+           <div class="beiJing" id="pic_6">
+           </div>
+       </div>
+  </body>
+</html>
